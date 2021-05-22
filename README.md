@@ -3,7 +3,7 @@
 ## 22-05-2021
 Este repositorio es tiene como objetivo presentar los  ejemplos desarrollados de shinny app,  en una primera entrega veremos el DashboardRealtor el  cual esta  alojado  en  la  nube de shinyapps.io  es importante  que  si  quieres  recrear este ejemplo consideres lo siguiente:
 
- 1- Tener tu motor de base de datos en el ejemplo se desarrolla sobre mysql o maridb.
+ 1- Tener tu motor de base de datos en el ejemplo se desarrolla sobre mysql o mariadb.
 
  2- Crear la base de datos.
 
